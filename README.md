@@ -5,12 +5,9 @@
 --------------------
 |  变更前   | 变更后 |
 |  ----  | ----  |
-|  45.144.0.0/15 :x:  | 45.144.0.0/16 :white_check_mark: <br> 45.145.0.0/19 :white_check_mark: <br> 45.145.32.0/22 :white_check_mark: <br> 45.145.40.0/21 :white_check_mark: <br> 45.145.48.0/20 :white_check_mark: <br> 45.145.64.0/18 :white_check_mark: <br> 45.145.128.0/17 :white_check_mark: <br>  | 
-|  103.244.20.0/23 :x: <br> 103.244.22.0/24 :x: <br> | 103.244.20.0/22 :white_check_mark: | 
-|  103.244.224.0/23 :x: <br> 103.244.228.0/22 :x: <br> | 103.244.224.0/21 :white_check_mark: | 
-|  103.245.32.0/22 :x: <br> 103.245.40.0/21 :x: <br> | 103.245.26.0/23 :white_check_mark: <br> 103.245.32.0/20 :white_check_mark: <br>  | 
-|  193.151.0.0/16 :x:  | 193.151.0.0/17 :white_check_mark: <br> 193.151.128.0/18 :white_check_mark: <br> 193.151.192.0/19 :white_check_mark: <br> 193.151.224.0/20 :white_check_mark: <br> 193.151.240.0/22 :white_check_mark: <br> 193.151.248.0/21 :white_check_mark: <br>  | 
-|  193.188.134.0/25 :x:  | 193.188.134.0/26 :white_check_mark: <br> 193.188.134.64/27 :white_check_mark: <br> 193.188.134.112/28 :white_check_mark: <br>  | 
+|  79.64.0.0/11 :x:  | 79.64.0.0/15 :white_check_mark: <br> 79.72.0.0/15 :white_check_mark: <br> 79.74.0.0/16 :white_check_mark: <br> 79.76.0.0/14 :white_check_mark: <br> 79.80.0.0/12 :white_check_mark: <br>  | 
+|  103.245.152.0/22 :x: <br> 103.245.160.0/21 :x: <br> 103.245.172.0/22 :x: <br> | 103.245.152.0/21 :white_check_mark: <br> 103.245.160.0/20 :white_check_mark: <br>  | 
+|  103.245.192.0/19 :x: <br> 103.245.224.0/21 :x: <br> 103.245.232.0/22 :x: <br> 103.245.240.0/20 :x: <br> | 103.245.192.0/18 :white_check_mark: | 
 
 --------------------
 ### 用途
