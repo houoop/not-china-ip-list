@@ -5,9 +5,10 @@
 --------------------
 |  变更前   | 变更后 |
 |  ----  | ----  |
-|  79.64.0.0/11 :x:  | 79.64.0.0/15 :white_check_mark: <br> 79.72.0.0/15 :white_check_mark: <br> 79.74.0.0/16 :white_check_mark: <br> 79.76.0.0/14 :white_check_mark: <br> 79.80.0.0/12 :white_check_mark: <br>  | 
-|  103.245.152.0/22 :x: <br> 103.245.160.0/21 :x: <br> 103.245.172.0/22 :x: <br> | 103.245.152.0/21 :white_check_mark: <br> 103.245.160.0/20 :white_check_mark: <br>  | 
-|  103.245.192.0/19 :x: <br> 103.245.224.0/21 :x: <br> 103.245.232.0/22 :x: <br> 103.245.240.0/20 :x: <br> | 103.245.192.0/18 :white_check_mark: | 
+|  79.64.0.0/15 :x: <br> 79.72.0.0/15 :x: <br> 79.74.0.0/16 :x: <br> 79.76.0.0/14 :x: <br> 79.80.0.0/12 :x: <br> | 79.64.0.0/11 :white_check_mark: | 
+|  91.194.0.0/15 :x:  | 91.194.0.0/16 :white_check_mark: <br> 91.195.0.0/19 :white_check_mark: <br> 91.195.32.0/22 :white_check_mark: <br> 91.195.38.0/23 :white_check_mark: <br> 91.195.40.0/21 :white_check_mark: <br> 91.195.48.0/20 :white_check_mark: <br> 91.195.64.0/18 :white_check_mark: <br> 91.195.128.0/17 :white_check_mark: <br>  | 
+|  103.167.254.0/23 :x:  | 103.167.252.0/22 :white_check_mark: | 
+|  103.246.68.0/22 :x:  | 103.246.64.0/21 :white_check_mark: <br> 103.246.72.0/22 :white_check_mark: <br>  | 
 
 --------------------
 ### 用途
