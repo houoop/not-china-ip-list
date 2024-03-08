@@ -5,9 +5,7 @@
 --------------------
 |  变更前   | 变更后 |
 |  ----  | ----  |
-|  23.168.240.0/24 :x:  | 23.168.240.0/23 :white_check_mark: | 
-|  91.209.128.0/19 :x:  | 91.209.128.0/22 :white_check_mark: <br> 91.209.132.0/23 :white_check_mark: <br> 91.209.134.0/24 :white_check_mark: <br> 91.209.136.0/21 :white_check_mark: <br> 91.209.144.0/20 :white_check_mark: <br>  | 
-|  91.231.216.0/21 :x:  | 91.231.216.0/22 :white_check_mark: <br> 91.231.220.0/23 :white_check_mark: <br> 91.231.223.0/24 :white_check_mark: <br>  | 
+|  91.239.192.0/20 :x:  | 91.239.193.0/24 :white_check_mark: <br> 91.239.194.0/23 :white_check_mark: <br> 91.239.196.0/22 :white_check_mark: <br> 91.239.200.0/21 :white_check_mark: <br>  | 
 
 --------------------
 ### 用途
