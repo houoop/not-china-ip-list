@@ -5,8 +5,8 @@
 --------------------
 |  变更前   | 变更后 |
 |  ----  | ----  |
-|  91.212.80.0/20 :x:  | 91.212.80.0/21 :white_check_mark: <br> 91.212.88.0/22 :white_check_mark: <br> 91.212.92.0/24 :white_check_mark: <br> 91.212.94.0/23 :white_check_mark: <br>  | 
-|  160.22.32.0/21 :x: <br> 160.22.40.0/22 :x: <br> 160.22.44.0/24 :x: <br> 160.22.46.0/23 :x: <br> | 160.22.32.0/20 :white_check_mark: | 
+|  91.198.0.0/18 :x:  | 91.198.0.0/19 :white_check_mark: <br> 91.198.32.0/22 :white_check_mark: <br> 91.198.36.0/23 :white_check_mark: <br> 91.198.39.0/24 :white_check_mark: <br> 91.198.40.0/21 :white_check_mark: <br> 91.198.48.0/20 :white_check_mark: <br>  | 
+|  160.22.64.0/21 :x: <br> 160.22.72.0/24 :x: <br> 160.22.74.0/23 :x: <br> | 160.22.64.0/20 :white_check_mark: <br> 160.22.80.0/23 :white_check_mark: <br> 160.22.84.0/22 :white_check_mark: <br> 160.22.88.0/23 :white_check_mark: <br>  | 
 
 --------------------
 ### 用途
